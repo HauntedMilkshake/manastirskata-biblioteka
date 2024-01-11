@@ -3,4 +3,4 @@
 
 A prototype for the geolocation puzzle and fitness app NEBULOUS
 
-Made during the HackAUBG Hackathon
+Made during the HackAUBG Hackathon.
