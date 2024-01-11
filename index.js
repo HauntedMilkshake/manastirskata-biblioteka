@@ -5,6 +5,7 @@ const session = require("express-session");
 const port = 3000;
 const bodyParser = require("body-parser");
 const jsonParser = bodyParser.json({ limit: "1mb" });
+// аре
 
 app.use(jsonParser);
 app.set("view engine", "ejs");
